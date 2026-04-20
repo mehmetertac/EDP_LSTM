@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+env/
+artifacts/
+*.pt
+*.pth
+.ipynb_checkpoints/
+.vscode/
+.idea/
+artifacts/*.png
+.DS_Store
+kagglehub/
